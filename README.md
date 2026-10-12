@@ -15,4 +15,4 @@ SQL fundamentals
 
 ## Workshop Status
 
-- GitHub fundamentals: In progress
+GitHub fundamentals: Complete
