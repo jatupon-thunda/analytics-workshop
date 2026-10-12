@@ -12,3 +12,7 @@ My learning workspace for developing practical analytics skills.
 ## Current Focus
 
 SQL fundamentals
+
+## Workshop Status
+
+- GitHub fundamentals: In progress
